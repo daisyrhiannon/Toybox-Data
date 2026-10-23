@@ -15,7 +15,7 @@ See the surface below:
 
 ![Toybox surface](toybox_surface.png)
 
-Defined by the equation $y = \sqrt{|x_2|} \sin(4x_1)}$
+Defined by the equation $y = \sqrt{|x_2|} \sin(4x_1)$
 
 ## The Dataset
 
